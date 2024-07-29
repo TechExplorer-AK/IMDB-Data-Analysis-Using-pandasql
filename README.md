@@ -8,7 +8,7 @@ The IMDb dataset comprises the following columns:
 * belongs_to_collection: Collection information for the movie.
 * budget: Production budget.
 * genres: Movie genres.
-* homepage: URL to the movie’s homepage.
+* homepage: URL to the movie’s homepage. 
 * imdb_id: IMDb unique identifier.
 * original_language: Language of the movie.
 * original_title: Original title.
